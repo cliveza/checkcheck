@@ -1,0 +1,10 @@
+**/__pycache__
+.cache
+.local
+.mozilla
+**/.pytest_cache
+geckodriver.log
+.bash*
+.vscode/
+Dockerfile
+.git*

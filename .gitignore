@@ -1,0 +1,8 @@
+**/__pycache__
+.cache
+.local
+.mozilla
+.pytest_cahce
+geckodriver.log
+.bash_history
+.vscode/
